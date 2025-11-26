@@ -16,4 +16,5 @@
 
 <p align="center">
   We are a non-commercial team and do not pursue any financial interests.
+  All our projects are born out of passion, creativity, and the desire to build something together. We do not earn any money with our offerings and do not plan to monetize them. Our focus is exclusively on collaborative work, learning, and enjoying our projects.
 </p>
