@@ -13,3 +13,7 @@
 <p align="center">
   <img src="https://media.discordapp.net/attachments/1364550609776283680/1440292007909265428/Bildschirmfoto_vom_2025-11-18_11-40-58-removebg-preview.png?ex=691d9ff6&is=691c4e76&hm=c21a1374a95b5b73e7b0c8c1463cd6c83e47e632602315cfe0482bd85da29c49&=&format=webp&quality=lossless&width=1104&height=273" width="900" />
 </p>
+
+<p align="center">
+  We are a non-commercial team and do not pursue any financial interests.
+</p>
